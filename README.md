@@ -3,7 +3,7 @@
 
 
 
-## 我的博客
+## 我的博客 ~~不如说是笔记~~
 
 [点击访问](https://wanghenshui.github.io)
 
