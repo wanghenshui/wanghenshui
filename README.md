@@ -1,4 +1,14 @@
-[![wanghenshui's github stats](https://github-readme-stats.vercel.app/api?username=wanghenshui&show_icons=true&theme=dark)](https://github.com/wanghenshui)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=wanghenshui&show_icons=true" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanghenshui" />
+</a>
+
+<a></a>
+
 
 
 
@@ -20,7 +30,6 @@
 
 
 联系方式左边都能看到
-@email: wanghenshui@qq.com
 
 [@知乎专栏(看缘分更新)](https://zhuanlan.zhihu.com/jieyaren) 
 [@豆瓣]( https://www.douban.com/people/61740133/) 
