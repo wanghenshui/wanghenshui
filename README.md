@@ -11,8 +11,6 @@
 
 
 
-
-
 ## 我的博客 ~~不如说是笔记~~
 
 [点击访问](https://wanghenshui.github.io)
@@ -30,8 +28,5 @@
 
 
 联系方式左边都能看到
-
-[@知乎专栏(看缘分更新)](https://zhuanlan.zhihu.com/jieyaren) 
-[@豆瓣]( https://www.douban.com/people/61740133/) 
 
 ![Wechat code](https://wanghenshui.github.io/assets/0-1552008412820.jpg)
