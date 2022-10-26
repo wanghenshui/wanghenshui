@@ -28,3 +28,9 @@
 ![Wechat code](https://wanghenshui.github.io/assets/0-1552008412820.jpg)
 
 [我的笔记](https://wanghenshui.github.io)
+
+[c++中文周刊](https://wanghenshui.github.io/cppweeklynews/)
+
+也可以关注这里
+
+<img src="https://wanghenshui.github.io/cppweeklynews/assets/code.png" alt=""  width="30%">
