@@ -51,3 +51,56 @@ A quote from tk@tombkeeper:
 >
 
 email me wanghenshui@qq.com
+
+
+## list of sponsor
+
+- ypcpy
+- 汪总
+- bitstring
+- 纯洁的铭铭
+- zhouchongzxc
+- A番茄A
+- 杨杰
+- 阿刚
+- MSK
+- 不语 x29
+- ywp
+- 范天泷
+- 罗盛波
+- *镇 x2
+- 张啸
+- Fragile
+- GYXL
+- Concept Matrixtang
+- chenbh
+- 振羽 x2
+- 汪总
+- Ryan
+- 许琦
+- 高博
+- Yin x2
+- YellyHornby x3
+- 404 x2
+- Amnesia x8
+- fengyiee木马
+- 陈青松
+- 黄亮Anthony x13
+- Captain
+- Anien
+- jerry
+- HNY x29
+- CHENL
+- 沧海
+- 彩虹蛇皮虾
+- Tudou
+- kenshin
+- {}
+- 啃萝卜
+- 寻找我的皮卡丘
+- 岚岚路
+- LH_mouse x 1332
+- 终盛 x2
+- Damon
+- whyqaq
+- 夏虫
